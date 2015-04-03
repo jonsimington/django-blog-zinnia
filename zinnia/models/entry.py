@@ -9,4 +9,4 @@ class Entry(load_model_class(ENTRY_BASE_MODEL)):
     The final Entry model based on inheritence.
     """
 
-ratings.register(Entry)
+
